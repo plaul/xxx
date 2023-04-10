@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A page"
+title: "Another page"
 permalink: /file2
 ---
 
