@@ -4,4 +4,4 @@ title: "A page"
 permalink: /file
 ---
 
-## Content
+## Content in file 1
